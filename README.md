@@ -3,8 +3,6 @@
 Scripts and data for Rossi et al. "Adaptive introgression of a visual preference gene"
 ---
 
-
-
 ## Data
 
 A. Behavioural data files:
@@ -22,41 +20,44 @@ B. Population genomic data:
 
 Whole genome resequencing data that have not already been published will be deposited in ENA upon acceptance for publication
 
-1A. 'gene_info.txt':
+1A. 'gene_info.txt': genes coordinates - genome annotation with scaffolds
 
-1B. 'chromo_gene_info.txt':
+1B. 'chromo_gene_info.txt': genes coordinates - chromosomal version
 
-2. 'crossover_rec_rates_Davey2017.tsv':
+2. 'crossover_rec_rates_Davey2017.tsv': recombination rates from Davey et al. 2017
 
-3. 'fd_TRI.BEL_AUTOSOMES.20000_300.csv':
+3A. 'fd_TRI.BEL_AUTOSOMES.20000_300.csv': admixture proportion estimates, focal species H. t. tristero and H. m. bellula
 
-4. 'fst_dxy.tristero_ccydno_m2000ALL.ALLCHR.csv.gz':
+3B. 'fd.chr18.THX.AMA.20000_300.csv': admixture proportion estimates, focal species H. t. thelxinoe and H. m. amaryllis
 
-5A. 'tim.tri.pop1_chr1.sweepfinder.out':
+4. 'fst_dxy.tristero_ccydno_m2000ALL.ALLCHR.csv.gz': FST and dxy values for H. t. tristero vs. H. c. cydno
 
-5B. 'tim.tri.pop1_chr18.sweepfinder.out':
+5A. 'tim.tri.pop1_chr1.sweepfinder.out': composite likelihood ratio (CLR) values for H. t. tristero for chromosome 1
 
-6. 'Phased_Imputed_chi_thx_ama_ros_num.chr18.phyml_bionj.data.tsv':
+5B. 'tim.tri.pop1_chr18.sweepfinder.out': composite likelihood ratio (CLR) values for H. t. tristero for chromosome 18
 
-7. 'Phased_Imputed_chi_thx_ama_ros_num.chr18.phyml_bionj.weights.tsv':
+6. 'Phased_Imputed_chi_thx_ama_ros_num.chr18.phyml_bionj.data.tsv': tree data for twisst analysis - introgression between H. t. thelxinoe and H. m. amaryllis
 
-8. 'Phased_Imputed_chi_tri_bel_ros_num.chr18.phyml_bionj.data.tsv':
+7. 'Phased_Imputed_chi_thx_ama_ros_num.chr18.phyml_bionj.weights.tsv': topology weightings  linked to file:  'Phased_Imputed_chi_thx_ama_ros_num.chr18.phyml_bionj.data.tsv'
 
-9. 'Phased_Imputed_chi_tri_bel_ros_num.chr18.phyml_bionj.weights.tsv':
+8. 'Phased_Imputed_chi_tri_bel_ros_num.chr18.phyml_bionj.data.tsv': tree data for twisst analysis - introgression between H. t. tristero and H. m. bellula
+
+9. 'Phased_Imputed_chi_tri_bel_ros_num.chr18.phyml_bionj.weights.tsv': topology weightings  linked to file:  'Phased_Imputed_chi_tri_bel_ros_num.chr18.phyml_bionj.data.tsv'
 
 
 C. Transcriptomic data:
 
-RNA-seq and Iso-Seq data that have not already been publishedData will be deposited in ENA upon acceptance for publication
+RNA-seq and Iso-Seq data will be deposited in ENA upon acceptance for publication
 
-1. 'Brains_newparam_genecounts.txt':
+1. 'Brains_newparam_genecounts.txt': gene counts from brain tissue for the different species used in the study: H. m. bellula, H. m. rosina, H. m. amaryllis, H. m. melpomene, H. c. cydno, H. m. chioneus, H. t. tristero
 
 
 D. CRISPR behavioural data files:
 
-...
+...******RICHARD
 
 5. Rossi_crispr_females_and_othermales_behavioural_data.txt
+
 
 E. Patternize analysis
 
@@ -64,12 +65,12 @@ E. Patternize analysis
 
 2. 'data_pattern_area.csv': color pattern areas quantifications with patternize
 
-3. 'data_gwd.csv': Gower dissimilarities measures between color patterns - linked to patternize analysis
+3. 'data_gwd.csv': Gower dissimilarities measures between color patterns - patternize analysis
 
 
 F. Miscellaneous
 
-1. 'CRISPR_table_survival_devtime.txt': survival statistics and developmental times related to CRISPR experiments
+1. 'CRISPR_table_survival_devtime.txt': survival statistics and developmental times related for CRISPR experiments
 
 
 
@@ -81,68 +82,70 @@ F. Miscellaneous
 
 B. Population genomic analyses:
 
-1. 'POPGEN1_align_and_variant_calling_GATK.sh': align whole genome re-sequencing data from different species to the H. melpomene genome and infer variants (SNPs)
+1. 'POPGEN1_align_and_variant_calling_GATK.sh': align whole genome resequencing data from different species to the H. melpomene genome and infer variants (SNPs)
 
 2. 'POPGEN2_admixture_proportions(fd)_analysis.sh': calculate admixture proportions between H. melpomene and H. timareta across the genome
 
 3. 'POPGEN3_twisst_analysis.sh': perform Twisst (phyogenetic) analysis 
 
-4. 'POPGEN4_FST_and_dxy.sh':
+4. 'POPGEN4_FST_and_dxy.sh': calculate FST and dxy between H. t. tristero and H. c. cydno
 
-5. 'POPGEN5A_prepare_vcf_files_for_SweepFinder(SF).sh': align hole genome re-sequencing data from different species to the H. melpomene genome and infer variants (SNPs) to use in selective sweep analysis
+5. 'POPGEN5A_prepare_vcf_files_for_SweepFinder(SF).sh': align whole genome resequencing data from different species to the H. melpomene genome and infer variants (SNPs) to use in the selective sweeps analyses
 
-6. 'POPGEN5B_create_SF2_recombinationfile.py': generate recombination file used in SweepFinder2 analysis (more information at:https://github.com/markusmoest/SelectionHeliconius)
+6. 'POPGEN5B_create_SF2_recombinationfile.py': generate recombination file used in SweepFinder2 analysis (more information at: https://github.com/markusmoest/SelectionHeliconius)
 
-7. 'POPGEN5C_createSweepFinderInput_polarizedonly.py': perform selective sweep analysis (more information at:https://github.com/markusmoest/SelectionHeliconius)
+7. 'POPGEN5C_createSweepFinderInput_polarizedonly.py': perform selective sweep analysis (more information at: https://github.com/markusmoest/SelectionHeliconius)
+
 
 C. Transcriptomic analyses:
 
-1. 'RNA1_trimRNAreads_trimgalore.sh':
+1. 'RNA1_trimRNAreads_trimgalore.sh': trim adapter and low quality bases from RNA-seq reads
 
-2. 'RNA2_mapping_RNAreads_STAR.sh':
+2. 'RNA2_mapping_RNAreads_STAR.sh': map RNA-seq reads reads to H. melpomene genome
 
-3. 'RNA3_gene_and_exon_counts_Htseq.sh':
+3. 'RNA3_gene_and_exon_counts_Htseq.sh': estimate RNA-seq reads mapping to genes and exons
 
-4. 'RNA4_Differential_gene_expression.R':
+4. 'RNA4_Differential_gene_expression.R': conduct differential gene expression analysis
 
-5. 'RNA5_differential_exon_usage.R':
+5. 'RNA5_differential_exon_usage.R': conduct differential exon usage analysis
 
-6. 'RNA6_forASE_markduplicates_and_splittrim_RNAreads.sh':
+6. 'RNA6_forASE_markduplicates_and_splittrim_RNAreads.sh': prepare RNA-reads for allele-specific expression (ASE) analysis
 
-7. 'RNA7_forASE_call_and filter_SNPS_from_RNAreads.sh':
+7. 'RNA7_forASE_call_and filter_SNPS_from_RNAreads.sh': variant calling on F1 hybrids samples used in ASE analysis
 
-8. 'RNA8_forASE_call_SNPs_gDNAreads_parents_of_F1.sh':
+8. 'RNA8_forASE_call_SNPs_gDNAreads_parents_of_F1.sh': variant calling on whole genome resequencing data from the parents of F1 hybrids - ASE analysis
 
-9. 'RNA9_runASEreader_F1.sh':
+9. 'RNA9_runASEreader_F1.sh': run ASE reader counter (estimate how many RNA-reads map to the different parental alleles)
 
-10. 'RNA10_allele_specific_analysis.R':
+10. 'RNA10_allele_specific_analysis.R': conduct ASE analysis
 
-11. 'RNA11_ISOseq_reads.sh':
+11. 'RNA11_ISOseq_reads.sh': analysis of Iso-Seq data
 
-D. CRISPR behavioural analyses
+D. CRISPR behavioral analyses
 
-...
+... ******RICHARD
 
 
 E. Miscellaneous analyses
 
-1. 'H. melpomene_ color_vision_model.R': run color vision model on reflectances acquired from natural and artificially colored forewing bands
+1. 'H. melpomene_ color_vision_model.R': run Heliconius color vision model on reflectances acquired from natural and artificially colored forewing bands
 
 2. 'patternize_gower_dissimilarity_measures.R': calculate Gower dissimilarity measures on color patterns analyzed with patternize
 
 
 
-
 ## Figures
 
-1. 'Plot_Proportion_Stats_FINAL_GITHUB.R': script used to plot different figures (all those with proportion data)
+1. 'Plot_Proportion_Stats_FINAL_GITHUB.R': base script used to plot different figures using proportion data
 
-...Main figures
+...Main figures ******RICHARD
+
+5. 'plot_twisst.R': script from https://github.com/simonhmartin/twisst/ to plot smoothed topology weightings as estimated in Twisst
 
 
 ## Supplementary Figures
 
-1.
+1. ******RICHARD
 
 2. Supplementary_Figure_2_chr1_popgen.R
 
