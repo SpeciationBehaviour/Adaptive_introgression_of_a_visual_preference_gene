@@ -54,9 +54,12 @@ RNA-seq and Iso-Seq data will be deposited in ENA upon acceptance for publicatio
 
 D. CRISPR behavioural data files:
 
-...******RICHARD
 
-5. Rossi_crispr_females_and_othermales_behavioural_data.txt
+1. Rossi_crispr_females_and_othermales_behavioural_data.txt Behavioural data from courtship trials conducted in Munich
+
+2. Rossi_crispr_optomotor_data.txt Data from optomotor trials conducted in Munich
+
+3. Rossi_drop_test_data.txt Data from 'drop tests' conducted in Munich
 
 
 E. Patternize analysis
@@ -111,6 +114,7 @@ C. Transcriptomic analyses:
 
 6. 'RNA6_forASE_markduplicates_and_splittrim_RNAreads.sh': prepare RNA-reads for allele-specific expression (ASE) analysis
 
+
 7. 'RNA7_forASE_call_and filter_SNPS_from_RNAreads.sh': variant calling on F1 hybrids samples used in ASE analysis
 
 8. 'RNA8_forASE_call_SNPs_gDNAreads_parents_of_F1.sh': variant calling on whole genome resequencing data from the parents of F1 hybrids - ASE analysis
@@ -123,8 +127,7 @@ C. Transcriptomic analyses:
 
 D. CRISPR behavioral analyses
 
-... ******RICHARD
-
+1. Rossi_et_crispr_behaviour_analysis.R R scripts to perform analysis on males preference data collected in Munich. Requires  packages `lme4` and `emmeans`.
 
 E. Miscellaneous analyses
 
@@ -132,33 +135,27 @@ E. Miscellaneous analyses
 
 2. 'patternize_gower_dissimilarity_measures.R': calculate Gower dissimilarity measures on color patterns analyzed with patternize
 
-
-
 ## Figures
 
 1. 'Plot_Proportion_Stats_FINAL_GITHUB.R': base script used to plot different figures using proportion data
 
-...Main figures ******RICHARD
-
-5. 'plot_twisst.R': script from https://github.com/simonhmartin/twisst/ to plot smoothed topology weightings as estimated in Twisst
-
+2. 'plot_twisst.R': script from https://github.com/simonhmartin/twisst/ to plot smoothed topology weightings as estimated in Twisst
 
 ## Supplementary Figures
 
-1. ******RICHARD
+1. Supplementary_Figure_2_chr1_popgen.R
 
-2. Supplementary_Figure_2_chr1_popgen.R
+2. Supplementary_Figure_3_TWISST.R
 
-3. Supplementary_Figure_3_TWISST.R
+3. Supplementary_Figure_4_sweeps.R
 
-4. Supplementary_Figure_4_sweeps.R
+4. Supplementary_Figure_5_PCA.R
 
-5. Supplementary_Figure_5_PCA.R
+5. Supplementary_Figure_6_diff_expression_across_QTL.R
 
-6. Supplementary_Figure_6_diff_expression_across_QTL.R
+6. Supplementary_Figure_7_survival_development_CRISPR.R
 
-7. Supplementary_Figure_7_survival_development_CRISPR.R
+7. Supplementary_Figure_9_all_malesANDfemales_flyORfeed.R
 
-8. Supplementary_Figure_9_all_malesANDfemales_flyORfeed.R
+8. Supplementary_Figure_10_patternize.R
 
-9. Supplementary_Figure_10_patternize.R
