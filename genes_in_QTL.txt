@@ -1,0 +1,201 @@
+Hmel2.5_ID chromosome start end Predicted_function_[UniProt_Interproscan]
+HMEL034191g1 chr18 2120 2881 -
+HMEL034192g1 chr18 16464 16812 - 
+HMEL034193g1 chr18 31821 33756 - 
+HMEL034168g1 chr18 48029 50097 -
+HMEL009681g1 chr18 52262 55301 Basic juvenile hormone-suppressible protein 2, Arthropod hemocyanins/insect LSPs signature
+HMEL009682g1 chr18 55653 71494 Syntaxin-binding protein 5-like, WD40/YVTN repeat-like-containing domain superfamily 
+HMEL009682g2 chr18 74820 78078 WD40-repeat-containing domain superfamily
+HMEL009682g3 chr18 81538 84644 -
+HMEL009682g4 chr18 84754 87941 Zinc finger CCHC-type profile
+HMEL009682g5 chr18 88076 97837 Lethal(2) giant larvae protein signature
+HMEL009682g6 chr18 98067 98330 -
+HMEL009682g7 chr18 101031 108491 Syntaxin-binding protein 5-like, Synaptobrevin, v-SNARE coiled-coil homology domain profile
+HMEL034169g1 chr18 115194 117784 -
+HMEL034170g1 chr18 118916 119410 -
+HMEL009683g1 chr18 120530 127522 -
+HMEL009683g2 chr18 127798 137959 SIT4 phosphatase-associated protein
+HMEL034171g1 chr18 140041 140595 -
+HMEL009684g1 chr18 145388 146076 -
+HMEL009684g2 chr18 156919 162617 Digestive cysteine proteinase 3, Papain cysteine protease
+HMEL034172g1 chr18 163403 163963 Endonuclease/exonuclease/phosphatase superfamily
+HMEL034173g1 chr18 164009 165336 Endonuclease/exonuclease/phosphatase superfamily
+HMEL009685g1 chr18 165629 166014 Cathepsin propeptide inhibitor domain (I29)
+HMEL009686g1 chr18 169937 172782 DEAD-box subfamily ATP-dependent helicases signature
+HMEL009687g1 chr18 174655 182837 Cathepsin L1, Papain family cysteine protease
+HMEL034174g1 chr18 190643 191373 DDE superfamily endonuclease
+HMEL009688g1 chr18 193374 197397 Zinc finger C4H2 domain-containing protein
+HMEL034175g1 chr18 197525 215240 Zinc finger RING-type signature
+HMEL034176g1 chr18 217018 219173 Reverse transcriptase domain
+HMEL034177g1 chr18 226449 227407 Haemolymph juvenile hormone binding protein (JHBP)
+HMEL034178g1 chr18 229007 229341 PHD and RING finger domain-containing protein 1
+HMEL009690g1 chr18 229739 238046 Cathepsin D, Aspartic peptidase domain superfamily
+HMEL009691g1 chr18 242240 244202 Zinc finger CCHC-type profile
+HMEL034179g1 chr18 244556 246087 -
+HMEL034180g1 chr18 251039 253859 -
+HMEL034181g1 chr18 256434 267760 Condensin II complex subunit CAP-H2 or CNDH2, N-terminal
+HMEL034182g1 chr18 268361 272581 Tetraspanin family
+HMEL034183g1 chr18 276285 277178 -
+HMEL034184g1 chr18 283261 283584 -
+HMEL034185g1 chr18 284347 284704 -
+HMEL009999g1 chr18 286157 298316 -
+HMEL034186g1 chr18 298463 299044 -
+HMEL009997g1 chr18 302759 304440 -
+HMEL009996g1 chr18 308039 309469 -
+HMEL009996g2 chr18 313553 313831 -
+HMEL034187g1 chr18 314734 315069 -
+HMEL034188g1 chr18 315157 322959 MFS transporter superfamily
+HMEL009992g1 chr18 323780 324205 Prokaryotic membrane lipoprotein lipid attachment site profile
+HMEL034189g1 chr18 325135 325965 PiggyBac transposable element-derived protein
+HMEL009992g2 chr18 329300 329686 OTU-like cysteine protease
+HMEL009992g3 chr18 333483 333995 -
+HMEL009992g4 chr18 334856 345144 Ionotropic glutamate receptor
+HMEL034190g1 chr18 348751 353074 Endonuclease/exonuclease/phosphatase superfamily
+HMEL034194g1 chr18 354974 355801 Endonuclease/exonuclease/phosphatase superfamily
+HMEL034195g1 chr18 356097 357432 -
+HMEL034196g1 chr18 370937 371230 -
+HMEL034197g1 chr18 400346 401150 -
+HMEL013545g1 chr18 407643 413682 -
+HMEL013545g2 chr18 413847 418654 Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial
+HMEL034198g1 chr18 420898 422139 Associated with zinc fingers
+HMEL013547g1 chr18 425860 437303 Protein-tyrosine phosphatase
+HMEL013549g1 chr18 440588 443111 Cyclin-K
+HMEL013551g1 chr18 450226 452484 Dehydrogenase E1 component
+HMEL013551g2 chr18 453273 454927 2-oxoisovalerate dehydrogenase subunit alpha
+HMEL013551g3 chr18 455434 459952 WD40/YVTN repeat-like-containing domain superfamily
+HMEL013551g4 chr18 468445 472652 Regucalcin, Senescence marker protein-30 family signature
+HMEL013552g1 chr18 473901 479866 Regucalcin, Senescence marker protein-30 family signature
+HMEL013553g1 chr18 486898 499929 OTU-like cysteine protease
+HMEL034200g1 chr18 506046 508188 Beta-thymosin
+HMEL034201g1 chr18 511998 527883 -
+HMEL013554g1 chr18 535372 542888 Zinc finger, C3HC4 type
+HMEL013555g1 chr18 543903 544682 Ribosome biogenesis protein NSA2 homolog, Ribosomal protein S8e
+HMEL013556g1 chr18 545161 547386 Ubiquitin-40S ribosomal protein S27a
+HMEL013557g1 chr18 578988 579359
+HMEL013558g1 chr18 581931 586022 Ribosome biogenesis protein BMS1
+HMEL013559g1 chr18 591847 602632 Sterile alpha motif/pointed domain superfamily	
+HMEL013559g2 chr18 603235 603972 -
+HMEL013559g3 chr18 604602 614761 Liprin-alpha-3
+HMEL034202g1 chr18 616506 617420 - 
+HMEL034203g1 chr18 653676 654502 -
+HMEL034204g1 chr18 698870 699541 -
+HMEL034205g1 chr18 700587 700895 -
+HMEL003174g1 chr18 710626 711091 Liprin-alpha-3
+HMEL003175g1 chr18 712809 715897 -
+HMEL003176 chr18 716820 719804 Odorant binding protein OBP41
+HMEL034206g1 chr18 726357 727934 Reverse transcriptase domain
+HMEL034207g1 chr18 728907 729953 -
+HMEL034208g1 chr18 732834 733133 -
+HMEL034209g1 chr18 733239 733535 -
+HMEL003863g1 chr18 735119 750511 Vacuolar sorting-associated protein 13
+HMEL003863g2 chr18 751637 768689 Vacuolar sorting-associated protein 13
+HMEL003863g3 chr18 769461 770990 -
+HMEL034210g1 chr18 772349 780569 Vacuolar sorting-associated protein 13
+HMEL003861g1 chr18 784270 786630 Family of unknown function
+HMEL003860g1 chr18 787645 796666 WD and tetratricopeptide repeats protein 1, Tetratricopeptide-like helical domain superfamily
+HMEL034211g1 chr18 799413 799908 -
+HMEL003857g1 chr18 838643 859260 PDZ superfamily, FERM superfamily
+HMEL034212g1 chr18 918429 918716 -
+HMEL002053g1 chr18 920064 920408 -
+HMEL001029g1 chr18 963644 966406 Zinc finger, C2CH-type
+HMEL001031g1 chr18 967774 972278 Ras-related protein Rab-39B, Small GTPase superfamil
+HMEL034213g1 chr18 979535 981711 Trafficking protein particle complex subunit 5
+HMEL001034g1 chr18 982095 983460 NADH-ubiquinone oxidoreductase B15 subunit
+HMEL001034g2 chr18 983744 984164 NADH-ubiquinone oxidoreductase B15 subunit
+HMEL001035g1 chr18 984823 985675 40S ribosomal protein S13, Ribosomal S13/S15 N-terminal domain
+HMEL001036g1 chr18 988681 989211 TM2 domain-containing protein 2
+HMEL001037g1 chr18 989763 995444 SCY1-like protein 2, Protein kinase domai
+HMEL001038g1 chr18 997255 1001835 MFS transporter superfamily
+HMEL001039g1 chr18 1002627 1009054 Vang-like protein 2, Vang-like protein
+HMEL034214g1 chr18 1013843 1018859 Leucine-rich repeat profile
+HMEL034215g1 chr18 1019266 1029838 Armadillo-like helical motif	
+HMEL001028 chr18 1058778 1059581 Optix
+HMEL034216g1 chr18 1134144 1134590 -
+HMEL001014g1 chr18 1184718 1188706 Alpha/beta hydrolase family
+HMEL001017g1 chr18 1194371 1202849 GPCR family 2, extracellular hormone receptor domain superfamily
+HMEL001018g1 chr18 1204223 1216099 P-loop containing nucleoside triphosphate hydrolase, Kinesin motor domain
+HMEL001019g1 chr18 1218523 1226799 Pre-mRNA-splicing factor Slu7, Pre-mRNA splicing Prp18-interacting factor
+HMEL001020g1 chr18 1228102 1232167 Sorting nexin-3
+HMEL001021g1 chr18 1233844 1241064 Phox homologous domain
+HMEL001022g1 chr18 1242333 1243161 Ashwin
+HMEL001009g1 chr18 1243903 1245250 Popeye protein
+HMEL001009g2 chr18 1264953 1265896 Pre-C2HC  domain
+HMEL001009g3 chr18 1265992 1266423 -
+HMEL001009g4 chr18 1269781 1290454 Popeye protein
+HMEL001006g1 chr18 1294048 1295064 DnaJ homolog subfamily C member 25
+HMEL001004g1 chr18 1296450 1301562 DALR anticodon binding domain
+HMEL001000g1 chr18 1336435 1336797 -
+HMEL001000g2 chr18 1359784 1361698 Reverse transcriptase domain
+HMEL001000g3 chr18 1362840 1364299 -
+HMEL001000g4 chr18 1364405 1365557 -
+HMEL034217g1 chr18 1513655 1515276 -
+HMEL034218g1 chr18 1541970 1543682 -
+HMEL003296g1 chr18 1550923 1555237 -
+HMEL003294g1 chr18 1556657 1570435 Protein kinase domain
+HMEL003293g1 chr18 1573508 1576867 Dnmt3b_related
+HMEL003292g1 chr18 1578692 1584126 Sideroflexin-1,Tricarboxylate/iron carrier
+HMEL003289g1 chr18 1588588 1595057 -
+HMEL034219g1 chr18 1655736 1656720 -
+HMEL003286g1 chr18 1659571 1660476 Sensitivity To Red Light Reduced-like, SRR1
+HMEL003286g2 chr18 1660513 1660836 -
+HMEL003285g1 chr18 1661869 1672685 Acyl-CoA dehydrogenase-like,
+HMEL034220g1 chr18 1672943 1673466 -
+HMEL034221g1 chr18 1677029 1677584 -
+HMEL034222g1 chr18 1678017 1678397 -
+HMEL003387g1 chr18 1678533 1680880 -
+HMEL003386g1 chr18 1682678 1684840 Activator of 90 kDa heat shock protein ATPase homolog
+HMEL022514 chr18 1691807 1693307 Odorant binding protein OBP40
+HMEL003383g1 chr18 1697567 1714623 Ankyrin repeat-containing domai
+HMEL003383g2 chr18 1706032 1712087 -
+HMEL034223g1 chr18 1790375 1790710 -
+HMEL003382g1 chr18 1846563 1847033 -
+HMEL003382g2 chr18 1890224 1890508 -
+HMEL034224g1 chr18 1936231 1937616 -
+HMEL034225g1 chr18 1960118 1960492 -
+HMEL034226g1 chr18 1967227 1967553 OTU-like cysteine protease
+HMEL034227g1 chr18 1978552 1983657 Aspartic peptidase domain superfamily
+HMEL034228g1 chr18 1983723 1984964 -
+HMEL005052g1 chr18 1993899 2014020 Thrombospondin type-1 (TSP1) repeat
+HMEL034229g1 chr18 2058983 2062475 Endonuclease/exonuclease/phosphatase superfamily
+HMEL034230g1 chr18 2062793 2063140 -
+HMEL005054g1 chr18 2073622 2074434 -
+HMEL005056g1 chr18 2101656 2111460 Haloacid dehalogenase-like hydrolas
+HMEL005057g1 chr18 2139926 2142982 -
+HMEL005058g1 chr18 2155372 2156310 -
+HMEL005059 chr18 2160393 2166648 Clip domain serine protease like 5
+HMEL034231g1 chr18 2184867 2185208 OTU-like cysteine proteas
+HMEL014190g1 chr18 2300825 2303313 Protein of unknown function
+HMEL034232g1 chr18 2304184 2312568 Zinc finger, RING/FYVE/PHD-type
+HMEL014191g1 chr18 2312999 2334624 Transferrin
+HMEL034233g1 chr18 2334953 2335762 Succinate dehydrogenase, cytochrome b556 subunit
+HMEL034234g1 chr18 2336277 2342430 Acylphosphatase-2
+HMEL014191g2 chr18 2344105 2344908 BTB/POZ domain-containing protein
+HMEL014194g1 chr18 2355394 2357151 Exonuclease
+HMEL014195g1 chr18 2358023 2365348 LETM1-like protein
+HMEL014196g1 chr18 2371160 2373530 -
+HMEL034235g1 chr18 2394148 2395009 -
+HMEL034236g1 chr18 2403214 2403584 -
+HMEL034237g1 chr18 2403703 2404599 -
+HMEL034238g1 chr18 2422384 2431031 -
+HMEL034239g1 chr18 2439566 2439946 -
+HMEL034240g1 chr18 2453554 2456528 Reverse transcriptase domain
+HMEL034241g1 chr18 2459190 2472798 -
+HMEL014198g1 chr18 2483430 2486727 -
+HmIR25a_1 chr18 2489222 2500702 Ionotropic receptor 25a
+HMEL014199g1 chr18 2502004 2503566 -
+HMEL034242g1 chr18 2510754 2511815 cAMP-dependent protein kinase catalytic subunit alpha
+HMEL014202g1 chr18 2585540 2587322 Catalase superfamily
+HMEL014202g2 chr18 2589335 2590611 -
+HMEL014202g3 chr18 2591067 2592812 Catalase superfamily
+HMEL014202g4 chr18 2594919 2596885 Catalase superfamily
+HMEL034243g1 chr18 2601402 2601851 -
+HMEL014204g1 chr18 2609732 2612413 Diuretic hormone class 2
+HMEL034244g1 chr18 2623463 2623997 -
+HMEL006666 chr18 2664636 2666954  Odorant binding protein OBP43
+HMEL022553 chr18 2671070 2673302 Odorant binding protein OBP42
+HMEL006663 chr18 2674034 2674879 Odorant binding protein OBP46
+HMEL006662g1 chr18 2675237 2679811 Serpin superfamily
+HMEL006660g1 chr18 2720420 2730566 Histone H3 K4-specific methyltransferase SET7/9 N-terminal domain
+HMEL034245g1 chr18 2732063 2735424 DnaJ domain signatur
+HMEL006658g1 chr18 2735712 2736053 Transmembrane protein 230
+HMEL034246g1 chr18 2741787 2742083 -
